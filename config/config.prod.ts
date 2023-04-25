@@ -12,7 +12,7 @@
 
 import { defineConfig } from '@umijs/max';
 
-const publicPath = '/vsion.liusisi/';
+const publicPath = '/';
 
 export default defineConfig({
   hash: true,
